@@ -6,9 +6,10 @@ Utilizing a News Corpus dataset containing news articles from three distinct cat
 
 ## Dataset
 
-The dataset chosen for this problem is the AG News Classification Dataset, which is available on Kaggle. The dataset can be accessed using the following link: [Dataset].
+The dataset chosen for this problem is the AG News Classification Dataset, which is available on Kaggle. The dataset can be accessed using the following link: [Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset?select=train.csv).
 
-The dataset consists of 4 classes, and each class consists of 30,000 news items. The dataset is visualized in Figure 1. As we only need three categories for this assignment, we exclude news items of category 3. Additionally, the number of data items is reduced to 100 per category, as specified by the assignment. The visualization is in Figure 2. The number of characters per document is visualized in Figure 3.
+The dataset consists of 4 classes, and each class consists of 30,000 news items. As we only need three categories for this assignment, we exclude news items of category 3. Additionally, the number of data items is reduced to 100 per category, as specified by the assignment.
+
 
 ## Conclusion
 From the plots below, the following inferences can be drawn:
